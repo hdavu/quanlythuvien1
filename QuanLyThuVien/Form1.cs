@@ -51,7 +51,7 @@ namespace QuanLyThuVien
 
         private void sáchQuáHạnToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            fqh.Show();
+            fqh.ShowDialog();
         }
 
         private void trợGiúpToolStripMenuItem_Click(object sender, EventArgs e)
